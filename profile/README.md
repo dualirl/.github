@@ -4,13 +4,13 @@ Streaming tools, built for people who stream.
 
 ## Products
 
-- **[Dual IRL Stream](https://dualirl.com/stream)** 🎥 — Stream two cameras at once
+- 🎥 **[Dual IRL Stream](https://dualirl.com/stream)** — Stream two cameras at once
   (front + back, picture-in-picture) or a single camera, over RTMP/RTMPS/SRT with H.265/HEVC.
-- **[Dual IRL Bro](https://dualirl.com/bro)** 📺 — Monitor your own live stream(s) across
+- 📺 **[Dual IRL Bro](https://dualirl.com/bro)** — Monitor your own live stream(s) across
   platforms from a second phone: muted preview tiles, merged chat, and alerts.
-- **[Tools](https://dualirl.com/tools)** 🧰 — free browser-source overlays (weather, stats, chat, viewer count,
+- 🧰 **[Tools](https://dualirl.com/tools)** — free browser-source overlays (weather, stats, chat, viewer count,
   and more) for any streaming setup.
-- **Cloud Streaming** (in progress) 🛰️ — cloud-hosted ingest, source-loss protection, multi-destination
+- 🛰️ **Cloud Streaming** (in progress) — cloud-hosted ingest, source-loss protection, multi-destination
   publishing, and cloud-hosted OBS scenes, so you can stream reliably without running your own PC.
 
 ## Links
