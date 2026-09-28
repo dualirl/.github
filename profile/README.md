@@ -1,6 +1,6 @@
 # Dual IRL
 
-IRL streaming tools, built for people who stream from a phone.
+Streaming tools, built for people who stream.
 
 ## Products
 
